@@ -1,0 +1,3 @@
+/Users/ar1eqin/CLionProjects/Prepare-for-Backend/cmake-build-debug/CMakeFiles/Prepare_for_Backend.dir
+/Users/ar1eqin/CLionProjects/Prepare-for-Backend/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ar1eqin/CLionProjects/Prepare-for-Backend/cmake-build-debug/CMakeFiles/rebuild_cache.dir
